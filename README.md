@@ -28,35 +28,7 @@ I'm **Fatma Ezzahra Elfilali**!
         <p>C++</p>
     </div>
 
-    <div style="text-align: center;">
-        <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" width="70">
-        <p>Python</p>
-    </div>
-    <div style="text-align: center;">
-        <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" width="70">
-        <p>PHP</p>
-    </div>
-    <div style="text-align: center;">
-        <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" alt="Spring Boot" width="70">
-        <p>Spring Boot</p>
-    </div>
-    <div style="text-align: center;">
-        <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular" width="70">
-        <p>Angular</p>
-    </div>
-
-    <div style="text-align: center;">
-        <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" width="70">
-        <p>Docker</p>
-    </div>
-    <div style="text-align: center;">
-        <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel" width="70">
-        <p>Laravel</p>
-    </div>
-    <div style="text-align: center;">
-        <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django" width="70">
-        <p>Django</p>
-    </div>
+   
 </div>
 
 ### 🔭 What I'm Working On  
