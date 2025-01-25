@@ -9,7 +9,7 @@ I'm **Fatma Ezzahra Elfilali**!
 
 ## 💻 Programming Languages & Technologies I Use
 
-<div style="display: flex; flex-wrap: wrap; justify-content: space-evenly; gap: 15px; padding: 20px; border: 2px solid #ccc; border-radius: 15px; background-color: #f9f9f9;">
+<div style="display: grid; grid-template-columns: repeat(4, 1fr); gap: 15px; padding: 20px; border: 2px solid #ccc; border-radius: 15px; background-color: #f9f9f9;">
     <div style="text-align: center;">
         <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white" alt="JavaScript" width="70">
         <p>JavaScript</p>
