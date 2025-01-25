@@ -9,20 +9,52 @@ I'm **Fatma Ezzahra Elfilali**!
 
 ## 💻 Programming Languages & Technologies I Use
 
-### Languages
-- ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white)
-- ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
-- ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
-- ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-- ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-- ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-
-### Frameworks & Technologies
-- ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
-- ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-- ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-- ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-- ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+<div style="display: flex; flex-wrap: wrap; justify-content: space-evenly; gap: 15px; padding: 20px; border: 2px solid #ccc; border-radius: 15px; background-color: #f9f9f9;">
+    <div style="text-align: center;">
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white" alt="JavaScript" width="70">
+        <p>JavaScript</p>
+    </div>
+    <div style="text-align: center;">
+        <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java" width="70">
+        <p>Java</p>
+    </div>
+    <div style="text-align: center;">
+        <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white" alt="C" width="70">
+        <p>C</p>
+    </div>
+    <div style="text-align: center;">
+        <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" width="70">
+        <p>C++</p>
+    </div>
+    <div style="text-align: center;">
+        <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" width="70">
+        <p>Python</p>
+    </div>
+    <div style="text-align: center;">
+        <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" width="70">
+        <p>PHP</p>
+    </div>
+    <div style="text-align: center;">
+        <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" alt="Spring Boot" width="70">
+        <p>Spring Boot</p>
+    </div>
+    <div style="text-align: center;">
+        <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular" width="70">
+        <p>Angular</p>
+    </div>
+    <div style="text-align: center;">
+        <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" width="70">
+        <p>Docker</p>
+    </div>
+    <div style="text-align: center;">
+        <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel" width="70">
+        <p>Laravel</p>
+    </div>
+    <div style="text-align: center;">
+        <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django" width="70">
+        <p>Django</p>
+    </div>
+</div>
 
 
 ### 🔭 What I'm Working On  
