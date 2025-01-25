@@ -3,7 +3,21 @@
 I'm **Fatma Ezzahra Elfilali**!  
 
 ✨ I’m passionate about building high-performance and scalable web applications that solve real-world problems. I thrive on learning and exploring new technologies, especially in the fields of **DevOps**, **cloud computing**, and **cybersecurity**.  
+### 📊 GitHub Stats  
 
+![Fatma's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ElfilaliFatma&show_icons=true&theme=radical)  
+
+### 🔝 Top Languages  
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ElfilaliFatma&layout=compact&theme=radical)  
+
+### 🔥 Streak Stats  
+
+![GitHub Streak](https://streak-stats.demolab.com?user=ElfilaliFatma&theme=radical&hide_border=true)  
+
+### 🌱 Contribution Graph  
+
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ElfilaliFatma&theme=radical)  
 ### 🔭 What I'm Working On  
 - Developing innovative web applications using **Java**, **Spring Boot**, **Angular**, and other cutting-edge technologies.  
 - Exploring best practices in **DevOps** to streamline CI/CD processes.  
