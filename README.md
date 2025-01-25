@@ -7,9 +7,23 @@ I'm **Fatma Ezzahra Elfilali**!
 
 ![Fatma's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ElfilaliFatma&show_icons=true&theme=radical)  
 
-### 🔝 Top Languages  
+## 💻 Programming Languages & Technologies I Use
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ElfilaliFatma&layout=compact&theme=radical)  
+### Languages
+- ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white)
+- ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
+- ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
+- ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+- ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+- ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+
+### Frameworks & Technologies
+- ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+- ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+- ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+- ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+- ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+
 
 ### 🔭 What I'm Working On  
 - Developing innovative web applications using **Java**, **Spring Boot**, **Angular**, and other cutting-edge technologies.  
