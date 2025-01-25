@@ -11,10 +11,6 @@ I'm **Fatma Ezzahra Elfilali**!
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ElfilaliFatma&layout=compact&theme=radical)  
 
-### 🔥 Streak Stats  
-
-![GitHub Streak](https://streak-stats.demolab.com?user=ElfilaliFatma&theme=radical&hide_border=true)  
-
 ### 🔭 What I'm Working On  
 - Developing innovative web applications using **Java**, **Spring Boot**, **Angular**, and other cutting-edge technologies.  
 - Exploring best practices in **DevOps** to streamline CI/CD processes.  
